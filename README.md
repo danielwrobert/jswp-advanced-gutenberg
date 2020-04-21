@@ -1,6 +1,8 @@
-# Gutenberg Blocks Demo
+# JS for WP: Advanced WordPress Block Development
 
-A small demo to get started with Gutenberg block development.
+My code for following along with the JavaScript for WordPress course on [Advanced Gutenberg Development](https://javascriptforwp.com/courses/advanced-gutenberg-development/).
+
+Started from my [Gutenberg Blocks Demo repository](https://github.com/danielwrobert/gutenberg-blocks-demo), so codebase will differ from the [official course repository](https://github.com/zgordon/advanced-gutenberg-course).
 
 ## Installation & Development
 
@@ -11,7 +13,7 @@ The quickest way to get up and running is to use the provided docker setup. Inst
 In the folder of your preference, clone this project and enter the working directory:
 
 ```
-git clone git@github.com:danielwrobert/gutenberg-blocks-demo.git
+git clone git@github.com:danielwrobert/jswp-advanced-gutenberg.git
 cd gutenberg-blocks-demo
 ```
 
@@ -35,7 +37,7 @@ _NOTE: If you set up you environment with one of the alternative approaches (not
 
 ```
 cd wp-content/plugins
-git clone git@github.com:danielwrobert/gutenberg-blocks-demo.git
+git clone git@github.com:danielwrobert/jswp-advanced-gutenberg.git
 cd gutenberg-blocks-demo
 ```
 
